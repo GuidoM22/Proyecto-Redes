@@ -9,4 +9,20 @@
 |-----------|:-------:|----------:|
 |fila 1, col1| fila 2, col 2| fila 3, col3|
 
+Lista de Materias
+---------------
+* 1er Año
+  * Psicosociologia
+  * Analisis de Sistemas Organizacionales
+  * Matematicas
+* 2do Año
+  * Desarrollo de Software
+  * Filosofia
+  * Modelo de Negocios
+* 3er Año
+  * Desarrollo Web
+  * Redes
+  
+
+
 
