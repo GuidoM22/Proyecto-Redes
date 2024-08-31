@@ -29,6 +29,6 @@ classDiagram
         +Agregar_miembro(Jose)
     }
 
-    Library "1" -- "contiene" Libro
-    Library "1" -- "registra" Miembros
-    Library "1" -- "maneja" Libreria
+    Bibliotecario "1" -- "Presta/Recibe" Libro
+   Bibliotecario "1" -- "registra" Miembros
+    Bibliotecario "1" -- "maneja" Libreria
